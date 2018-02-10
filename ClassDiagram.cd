@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="BoardHighlights">
+    <Position X="3.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAAAAAAAAAAAAgAAAAAAABAAgAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Board\BoardHighlights.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardManager">
+    <Position X="12.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IBSAQAAAACAABAEAMRAAAACSAAA4kEECQIAAAAAUYIA=</HashCode>
+      <FileName>Assets\Scripts\Board\BoardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoardUndoRedoHandler">
+    <Position X="6.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAABAABAAAAAAARABAEEAAAAAAAAAAAAFA=</HashCode>
+      <FileName>Assets\Scripts\Board\BoardUndoRedoHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMove">
+    <Position X="0.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAAAEAAAAAAAACEAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Board\ChessMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BishopMoveLogic">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieces\BishopMoveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPiece" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAIAAAAAQAEAAIAAAAAAAAgCAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieces\ChessPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KingMoveLogic">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieces\KingMoveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KnightMoveLogic">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieces\KnightMoveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PawnMoveLogic">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieces\PawnMoveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QueenMoveLogic">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieces\QueenMoveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RookMoveLogic">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieces\RookMoveLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainCamera">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAABAAAAAAAAAACAAAAAAAAAAAAAAACAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Misc\MainCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneLoader">
+    <Position X="6" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Misc\SceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessData">
+    <Position X="0.5" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAQAABAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveLoadGame\ChessData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataSaver">
+    <Position X="0.5" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveLoadGame\DataSaver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveLoadManager">
+    <Position X="3.25" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQQAAAgAAAAAAgQAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveLoadGame\SaveLoadManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverDisplayer">
+    <Position X="9.5" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAABAAAAAAQAAAAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>Assets\Scripts\UI\GameOverDisplayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovedMovesDisplayer">
+    <Position X="9.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAQACAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\MovedMovesDisplayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Extension.ExtraTypes.IntVector2PropertyDrawer">
+    <Position X="9.75" Y="8.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAAADgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Misc\IntVector2\IntVector2PropertyDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Extension.ExtraTypes.IntVector2">
+    <Position X="7.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAIAIAABgAAAAAiA=</HashCode>
+      <FileName>Assets\Scripts\Misc\IntVector2\IntVector2.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
